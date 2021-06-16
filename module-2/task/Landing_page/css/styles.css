@@ -9,17 +9,17 @@ main{
     float:left;
     padding:30px;
     
-    }
+}
 aside{
     width:calc(25% - 60px);
     float:left;
     padding:30px;
     
-    }
- @media only screen and (max-width: 600px) {
+}
+@media only screen and (max-width: 600px){
     main,  
     aside{  
         float:none;
         width:calc(100% - 60px);
         
-        }
+}
